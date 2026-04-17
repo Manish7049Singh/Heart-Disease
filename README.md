@@ -1,6 +1,5 @@
 # Heart Disease Analytics Dashboard
 This project analyzes heart disease risk factors using:
-
 - MySQL database
 - Tableau dashboard
 - Flask web application
